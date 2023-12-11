@@ -1,2 +1,2 @@
 # Proxy
-proxy files i found around the web
+proxy files found around the web
